@@ -15,14 +15,14 @@
                 <div class="visual-wrapper shrunk-wrapper">
                     <div class="connector-s-shape d-none d-lg-block"></div>
                     <div class="main-image-box">
-                        <img src="./../assets/images/woman-right.jpg" alt="Gen AI Visual" class="img-fluid rounded-5 w-100 object-fit-cover shadow-sm">
+                        <img src="assets/images/woman-right.jpg" alt="Gen AI Visual" class="img-fluid rounded-5 w-100 object-fit-cover shadow-sm">
                     </div>
                     <div class="chat-float-card shadow-l">
                         <div class="d-flex justify-content-end align-items-start gap-2 mb-3">
                             <div class="msg-bubble bg-light-blue text-dark rounded-3 p-2 small shadow-sm" style="background-color: #E1F5FE;">
                                 I want to book an appointment with an orthopedic doctor for tomorrow.
                             </div>
-                            <img src="./../assets/images/pic.jpg" class="user-avatar rounded-circle object-fit-cover" style="width: 25px; height: 25px;" alt="User">
+                            <img src="assets/images/pic.jpg" class="user-avatar rounded-circle object-fit-cover" style="width: 25px; height: 25px;" alt="User">
                         </div>
                         <div class="d-flex justify-content-start align-items-start gap-2 mb-3">
                             <div class="bot-icon d-flex align-items-center justify-content-center rounded-circle text-white" style="width: 25px; height: 25px; background-color: #003840; flex-shrink: 0;">
@@ -36,7 +36,7 @@
                             <div class="msg-bubble bg-light-blue text-dark rounded-3 p-2 small shadow-sm" style="background-color: #E1F5FE;">
                                 Is 11 AM available?
                             </div>
-                            <img src="./../assets/images/pic.jpg" class="user-avatar rounded-circle object-fit-cover" style="width: 25px; height: 25px;" alt="User">
+                            <img src="assets/images/pic.jpg" class="user-avatar rounded-circle object-fit-cover" style="width: 25px; height: 25px;" alt="User">
                         </div>
                         <div class="d-flex justify-content-start align-items-start gap-2 mb-3">
                             <div class="bot-icon d-flex align-items-center justify-content-center rounded-circle text-white" style="width: 25px; height: 25px; background-color: #003840; flex-shrink: 0;">
@@ -50,7 +50,7 @@
                             <div class="msg-bubble bg-light-blue text-dark rounded-3 p-2 small shadow-sm" style="background-color: #E1F5FE;">
                                 Sanya Mishra
                             </div>
-                            <img src="./../assets/images/pic.jpg" class="user-avatar rounded-circle object-fit-cover" style="width: 25px; height: 25px;" alt="User">
+                            <img src="assets/images/pic.jpg" class="user-avatar rounded-circle object-fit-cover" style="width: 25px; height: 25px;" alt="User">
                         </div>
                         <div class="d-flex justify-content-start align-items-start gap-2">
                             <div class="bot-icon d-flex align-items-center justify-content-center rounded-circle text-white" style="width: 25px; height: 25px; background-color: #003840; flex-shrink: 0;">
@@ -109,7 +109,7 @@
                 <div class="visual-wrapper2 shrunk-wrapper ms-auto">
                     <div class="connector-s-shape connector-type-2 d-none d-lg-block"></div>
                     <div class="main-image-box">
-                        <img src="./../assets/images/standing-man-with-phone.jpg" alt="Multilingual Visual" class="img-fluid rounded-5 w-100 object-fit-cover shadow-sm">
+                        <img src="assets/images/standing-man-with-phone.jpg" alt="Multilingual Visual" class="img-fluid rounded-5 w-100 object-fit-cover shadow-sm">
                     </div>
                     <div class="icon-float-badge shadow">
                         <div class="icon-inner"><i class="fas fa-language"></i></div>
@@ -122,7 +122,7 @@
                             <div class="icon-wrap bg-yellow"><i class="fas fa-robot"></i></div>
                         </div>
                         <div class="msg-row user mb-3">
-                            <img src="./../assets/images/man1.jpg" class="user-avatar" alt="User">
+                            <img src="assets/images/man1.jpg" class="user-avatar" alt="User">
                             <div class="msg-bubble bg-blue">
                                 <p class="mb-0 small fw-bold">जी हाँ, मैं अमन बात कर रहा हूँ</p>
                             </div>
@@ -152,7 +152,7 @@
                 <div class="visual-wrapper shrunk-wrapper">
                     <div class="connector-s-shape connector-type-3 d-none d-lg-block"></div>
                     <div class="main-image-box">
-                        <img src="./../assets/images/woman-with-phone.jpg" alt="Personalization" class="img-fluid rounded-5 w-100 object-fit-cover shadow-sm">
+                        <img src="assets/images/woman-with-phone.jpg" alt="Personalization" class="img-fluid rounded-5 w-100 object-fit-cover shadow-sm">
                     </div>
                     <div class="hyper-relevant-bubble">
                         Hyper-Relevant Answers. Zero Manual Lookup. Instant Context.
@@ -221,7 +221,7 @@
                 <div class="visual-wrapper2 shrunk-wrapper ms-auto">
                     <div class="connector-s-shape connector-type-2 d-none d-lg-block"></div>
                     <div class="main-image-box">
-                        <img src="./../assets/images/man-with-phone.jpg" alt="Lead Qualification" class="img-fluid rounded-5 w-100 object-fit-cover shadow-sm">
+                        <img src="assets/images/man-with-phone.jpg" alt="Lead Qualification" class="img-fluid rounded-5 w-100 object-fit-cover shadow-sm">
                     </div>
                     <div class="adaptive-flow-box shadow-sm">
                         <div class="small fw-bold text-center mb-2" style="font-size: 0.7rem; color: #003840;">Adaptive Flows to Capture Data</div>
@@ -244,7 +244,7 @@
                             <div class="bot-icon-small"><i class="fas fa-robot"></i></div>
                         </div>
                         <div class="msg-row user mb-2">
-                            <img src="./../assets/images/man-with-phone.jpg" class="user-avatar-small">
+                            <img src="assets/images/man-with-phone.jpg" class="user-avatar-small">
                             <div class="msg-bubble bg-white border x-small">I want to enquire about 2 BHK pricing</div>
                         </div>
                         <div class="chat-input-mock small-mock"><i class="fas fa-paperclip"></i></div>
@@ -252,9 +252,9 @@
                     <div class="handoff-box shadow-lg">
                         <p class="text-white small fw-bold mb-3 text-center">Seamless handoff to right live agent</p>
                         <div class="d-flex align-items-center justify-content-center gap-3">
-                            <img src="./../assets/images/man2.png" alt="Agent Avatar" class="handoff-img-avatar">
+                            <img src="assets/images/man2.png" alt="Agent Avatar" class="handoff-img-avatar">
                             <div class="vertical-divider"></div>
-                            <img src="./../assets/images/customer-s.png" alt="Handoff Icon" class="handoff-img-icon">
+                            <img src="assets/images/customer-s.png" alt="Handoff Icon" class="handoff-img-icon">
                         </div>
                     </div>
                 </div>
@@ -266,7 +266,7 @@
                 <div class="visual-wrapper shrunk-wrapper">
                     <div class="connector-s-shape d-none d-lg-block"></div>
                     <div class="main-image-box">
-                        <img src="./../assets/images/woman-left.jpg" alt="No Code Platform" class="img-fluid rounded-5 w-100 object-fit-cover shadow-sm">
+                        <img src="assets/images/woman-left.jpg" alt="No Code Platform" class="img-fluid rounded-5 w-100 object-fit-cover shadow-sm">
                     </div>
                     <div class="feature-pill pill-top-left shadow-sm">
                         <div class="check-icon"><i class="fas fa-check"></i></div>
@@ -334,23 +334,23 @@
                 <div class="visual-wrapper shrunk-wrapper ms-auto">
 
                     <div class="main-image-box">
-                        <img src="./../assets/images/man-with-white-shirt.jpg" alt="Integrable Platform" class="img-fluid rounded-5 w-100 object-fit-cover shadow-sm">
+                        <img src="assets/images/man-with-white-shirt.jpg" alt="Integrable Platform" class="img-fluid rounded-5 w-100 object-fit-cover shadow-sm">
                     </div>
 
                     <div class="float-icon-box pos-top-left shadow-lg">
-                        <img src="./../assets/images/phone-v.png" alt="Call Icon" class="img-fluid">
+                        <img src="assets/images/phone-v.png" alt="Call Icon" class="img-fluid">
                     </div>
 
                     <div class="float-icon-box pos-top-right shadow-lg">
-                        <img src="./../assets/images/calender-v.png" alt="Layout Icon" class="img-fluid">
+                        <img src="assets/images/calender-v.png" alt="Layout Icon" class="img-fluid">
                     </div>
 
                     <div class="float-icon-box pos-bottom-left shadow-lg">
-                        <img src="./../assets/images/chart-v.png" alt="Chart Icon" class="img-fluid">
+                        <img src="assets/images/chart-v.png" alt="Chart Icon" class="img-fluid">
                     </div>
 
                     <div class="float-dashboard-img shadow-lg">
-                        <img src="./../assets/images/hero.png" alt="Dashboard Preview" class="img-fluid">
+                        <img src="assets/images/hero.png" alt="Dashboard Preview" class="img-fluid">
                     </div>
 
                 </div>
@@ -367,7 +367,7 @@
         <a href="#" class="btn-experience shadow-lg">Experience Now</a>
 
         <div class="circuit-floating-img d-none d-lg-block">
-            <img src="./../assets/images/circuits2.png" alt="Circuit Deco" class="img-fluid">
+            <img src="assets/images/circuits2.png" alt="Circuit Deco" class="img-fluid">
         </div>
 
     </div>

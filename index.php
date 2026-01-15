@@ -25,7 +25,7 @@
 
     <?php include 'components/advantage.php';?>
 
-    <?php include 'components/engagement.php';?>
+    <?php include 'components/industry.php';?>
 
     <?php include 'components/footer.php';?>
 

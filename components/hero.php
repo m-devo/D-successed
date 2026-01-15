@@ -1,10 +1,20 @@
 <section class="hero-section position-relative overflow-hidden d-flex align-items-center">
 
     <div class="hero-grid-bg"></div>
-
-    <div class="hero-waves-container">
-        <img src="assets/images/wave-pattern.png" alt="Waves Pattern" class="hero-waves-img">
-    </div>
+        <div class="hero-waves-container">
+                <svg class="tech-waves-svg" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+                    <defs>
+                        <path id="tech-wave-path" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+                    </defs>
+                    <g class="wave-lines">
+                        <use xlink:href="#tech-wave-path" x="48" y="0" class="wave-line line-1" />
+                        <use xlink:href="#tech-wave-path" x="48" y="3" class="wave-line line-2" />
+                        <use xlink:href="#tech-wave-path" x="48" y="5" class="wave-line line-3" />
+                        <use xlink:href="#tech-wave-path" x="48" y="7" class="wave-line line-4" />
+                        <use xlink:href="#tech-wave-path" x="48" y="2" class="wave-line line-5" />
+                    </g>
+                </svg>
+            </div>
 
     <img src="assets/images/big-robot.png" alt="AI Robot" class="hero-robot-img">
 
