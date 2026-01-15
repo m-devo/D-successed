@@ -1,7 +1,7 @@
 <section class="advantage-section py-5 position-relative bg-white">
     
     <div class="robot-decoration d-none d-md-block">
-        <img src="./../assets/images/small-robot.png" alt="Robot" class="img-fluid">
+        <img src="assets/images/small-robot.png" alt="Robot" class="img-fluid">
     </div>
 
     <div class="container position-relative z-2">

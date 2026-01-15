@@ -4,7 +4,7 @@
             <div class="col-12 col-md-8 text-center text-md-start">
                 <div class="d-md-flex align-items-center gap-4">
                     <div class="d-inline-block mb-1 mb-md-0">
-                        <a href="https://maps.app.goo.gl/9uTqAAmYw12C9tV99" target="_blank" class="text-white text-decoration-none">
+                        <a href="https://maps.app.goo.gl/Vw71xnaVTu3sCrLNA" target="_blank" class="text-white text-decoration-none">
                             <i class="fas fa-map-marker-alt text-warning me-2"></i>
                             <span>1st Floor, Unit No 1127, Landmark Cyber Park Gurugram Haryana 122002</span>
                         </a>
