@@ -8,7 +8,7 @@
         
         <div class="row justify-content-center mb-5">
             <div class="col-lg-8 text-center">
-                <h2 class="fw-bold text-dark display-6 mb-3">The Smartping Advantage</h2>
+                <h2 class="fw-bold display-6 mb-3 smart-advantage" >The Smartping Advantage</h2>
                 <p class="text-secondary small">
                     Explore why leading enterprises choose Smartping’s voicebot to power their customer conversations:
                 </p>
@@ -22,7 +22,7 @@
                     <div class="adv-icon mb-3">
                         <i class="fas fa-language"></i>
                     </div>
-                    <h6 class="fw-bold text-dark">Real-Time Language Switching and data fulfillment</h6>
+                    <h6 class="fw-bold text-color">Real-Time Language Switching and data fulfillment</h6>
                 </div>
             </div>
 
@@ -31,7 +31,7 @@
                     <div class="adv-icon mb-3">
                         <i class="fas fa-phone-alt"></i>
                     </div>
-                    <h6 class="fw-bold text-dark">Telecom-Grade Reliability</h6>
+                    <h6 class="fw-bold text-color">Telecom-Grade Reliability</h6>
                 </div>
             </div>
 
@@ -40,7 +40,7 @@
                     <div class="adv-icon mb-3">
                         <i class="fas fa-headset"></i>
                     </div>
-                    <h6 class="fw-bold text-dark">Dedicated Success & SLA-Driven Support</h6>
+                    <h6 class="fw-bold text-color">Dedicated Success & SLA-Driven Support</h6>
                 </div>
             </div>
 
@@ -49,7 +49,7 @@
                     <div class="adv-icon mb-3">
                         <i class="fas fa-user-check"></i>
                     </div>
-                    <h6 class="fw-bold text-dark">Pre-trained 100+ agents, available across industries and use cases</h6>
+                    <h6 class="fw-bold text-color">Pre-trained 100+ agents, available across industries and use cases</h6>
                 </div>
             </div>
 
@@ -58,7 +58,7 @@
                     <div class="adv-icon mb-3">
                         <i class="fas fa-play-circle"></i>
                     </div>
-                    <h6 class="fw-bold text-dark">Go Live in Less than <br> 30 Minutes</h6>
+                    <h6 class="fw-bold text-color">Go Live in Less than <br> 30 Minutes</h6>
                 </div>
             </div>
 
@@ -67,7 +67,7 @@
                     <div class="adv-icon mb-3">
                         <i class="fas fa-wave-square"></i>
                     </div>
-                    <h6 class="fw-bold text-dark">Speed, pitch, voice modulation along with capability of placing 1000+ calls in parallel</h6>
+                    <h6 class="fw-bold text-color">Speed, pitch, voice modulation along with capability of placing 1000+ calls in parallel</h6>
                 </div>
             </div>
 

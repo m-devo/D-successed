@@ -16,7 +16,7 @@
             </div>
         </div>
 
-        <div class="row g-4">
+        <div class="row g-4 justify-content-center">
             
             <div class="col-lg-4 col-md-6">
                 <div class="outcome-card h-100">

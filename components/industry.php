@@ -51,7 +51,7 @@
                             
                             <div class="col-lg-5 mb-4 mb-lg-0">
                                 <div class="industry-img-box shadow">
-                                    <img src="./../assets/images/man-with-phone.jpg" alt="Retail Solution" class="img-fluid w-100 object-fit-cover">
+                                    <img src="assets/images/man-with-phone.jpg" alt="Retail Solution" class="img-fluid w-100 object-fit-cover">
                                 </div>
                             </div>
 
