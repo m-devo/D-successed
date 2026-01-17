@@ -1773,9 +1773,10 @@ body {
     animation: bot-pulse 3s infinite;
 }
 
-::selection {
+.text-warning::selection {
     background-color: #FFC107;
-    color: #003840;
+    color: #003840; 
+    -webkit-text-fill-color: #003840;
 }
 
 .connector-s-shape {

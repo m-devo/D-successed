@@ -331,11 +331,11 @@
                 <h2 class="fw-bold text-dark display-6 mb-2">No-Code Interface, Seamlessly</h2>
                 <h3 class="fw-bold text-warning mb-4">Integrable Platform</h3>
                 <div class="feature-item d-flex gap-3 mb-4">
-                    <div class="feature-icon"><i class="fas fa-magic"></i></div>
+                    <div class="feature-icon"><i class="fas fa-star"></i></div>
                     <p class="text-secondary mb-0">Intuitive flow builder designed for fast setup and customization - no coding required.</p>
                 </div>
                 <div class="feature-item d-flex gap-3">
-                    <div class="feature-icon"><i class="fas fa-plug"></i></div>
+                    <div class="feature-icon"><i class="fas fa-star"></i></div>
                     <p class="text-secondary mb-0">Easily integrates with CRMs, APIs, and enterprise systems to fit your deployment needs.</p>
                 </div>
             </div>
@@ -348,11 +348,11 @@
                 <h3 class="fw-bold text-warning mb-4">Integrable Platform</h3>
 
                 <div class="feature-item d-flex gap-3 mb-4">
-                    <div class="feature-icon"><i class="fas fa-magic"></i></div>
+                    <div class="feature-icon"><i class="fas fa-star"></i></div>
                     <p class="text-secondary mb-0">Intuitive flow builder designed for fast setup and customization - no coding required.</p>
                 </div>
                 <div class="feature-item d-flex gap-3">
-                    <div class="feature-icon"><i class="fas fa-plug"></i></div>
+                    <div class="feature-icon"><i class="fas fa-star"></i></div>
                     <p class="text-secondary mb-0">Easily integrates with CRMs, APIs, and enterprise systems to fit your deployment needs.</p>
                 </div>
             </div>
