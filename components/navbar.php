@@ -74,31 +74,4 @@
             </div>
         </div>
     </div>
-
-    <script>
-    document.addEventListener("DOMContentLoaded", function() {
-        const navCollapse = document.getElementById('mainNav');
-        const bsCollapse = new bootstrap.Collapse(navCollapse, {toggle: false});
-        const navbar = document.querySelector('.navbar');
-
-        const navLinks = document.querySelectorAll('.nav-link:not(.dropdown-toggle), .dropdown-item');
-        
-        navLinks.forEach(link => {
-            link.addEventListener('click', () => {
-                if (navCollapse.classList.contains('show')) {
-                    bsCollapse.hide();
-                }
-            });
-        });
-
-        document.addEventListener('click', function(event) {
-            const isClickInsideNavbar = navbar.contains(event.target);
-            const isMenuOpen = navCollapse.classList.contains('show');
-
-            if (!isClickInsideNavbar && isMenuOpen) {
-                bsCollapse.hide();
-            }
-        });
-    });
-</script>
 </nav>

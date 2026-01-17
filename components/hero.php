@@ -31,14 +31,14 @@
 
             <div class="grid-content">
                 <div class="hero-content ps-lg-5 text-white text-center text-md-start">
-                    <h1 class="fw-bold hero-title mb-4">
+                    <h1 class="fw-bold hero-title mb-2">
                         Gen AI <span class="text-warning">Powered Voicebot</span>
-                        <div class="fs-5 fw-normal mt-2 text-white-50">
-                            for human like impact & enterprise grade conversations
-                        </div>
                     </h1>
+                    <div class="fw-normal mt-0 mb-4 hero-desc mx-auto mx-md-0">
+                        for human like impact & enterprise grade conversations
+                    </div>
 
-                    <h2 class="fw-bold mb-4 fs-2">
+                    <h2 class="fw-bold hero-title mb-4">
                         Across <span class="text-warning">Collections</span>
                     </h2>
 

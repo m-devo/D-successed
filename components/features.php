@@ -60,6 +60,16 @@
                                 Got it. Your appointment with Dr. Mehta is booked for 11:00 AM, 25th July.
                             </div>
                         </div>
+                        <div class="d-flex justify-content-start align-items-start gap-2 mb-3">
+                            <div class="bot-icon d-flex align-items-center justify-content-center rounded-circle text-white" style="width: 25px; height: 25px; background-color: #003840; flex-shrink: 0;">
+                                <i class="fas fa-robot" style="font-size: 12px;"></i>
+                            </div>
+                            <div class="msg-bubble bg-white text-dark rounded-3 p-2 small shadow-sm border">
+                                <div class="typing-indicator d-flex gap-1">
+                                    <span></span><span></span><span></span>
+                                </div>
+                            </div>
+                        </div>
                         <div class="dashed-border-deco"></div>
                     </div>
                     <div class="tags-float-group d-flex flex-column gap-2">
@@ -97,11 +107,11 @@
                 <h2 class="fw-bold text-dark display-6 mb-2">Multilingual & Intelligent</h2>
                 <h3 class="fw-bold text-warning mb-4">Conversations</h3>
                 <div class="feature-item d-flex gap-3 mb-4">
-                    <div class="feature-icon"><i class="fas fa-globe"></i></div>
+                    <div class="feature-icon"><i class="fas fa-star"></i></div>
                     <p class="text-secondary mb-0">Auto-switch between 10+ languages mid-call.</p>
                 </div>
                 <div class="feature-item d-flex gap-3">
-                    <div class="feature-icon"><i class="fas fa-brain"></i></div>
+                    <div class="feature-icon"><i class="fas fa-star"></i></div>
                     <p class="text-secondary mb-0">Ensure natural, context-aware dialogues.</p>
                 </div>
             </div>
@@ -136,6 +146,15 @@
                         <div class="msg-row bot mb-3">
                             <div class="msg-bubble bg-orange">
                                 <p class="mb-0 small">ककपयय बततएए, कक आप यह भभगततन जल सस जल कर सकतत हह ततकक आपकक ससववल ससर पभभववत न हह और ललट फफइन</p>
+                            </div>
+                            <div class="icon-wrap bg-yellow"><i class="fas fa-robot"></i></div>
+                        </div>
+                        <div class="msg-row bot mb-3">
+                            <div class="msg-bubble bg-orange">
+                                <div class="typing-indicator d-flex gap-1">
+                                    <span style="background-color: #E65100;"></span> <span style="background-color: #E65100;"></span>
+                                    <span style="background-color: #E65100;"></span>
+                                </div>
                             </div>
                             <div class="icon-wrap bg-yellow"><i class="fas fa-robot"></i></div>
                         </div>
@@ -209,11 +228,11 @@
                 <h2 class="fw-bold text-dark display-6 mb-2">Lead Qualification, Intent Routing</h2>
                 <h3 class="fw-bold text-warning mb-4">& Smart Handoffs</h3>
                 <div class="feature-item d-flex gap-3 mb-4">
-                    <div class="feature-icon"><i class="fas fa-filter"></i></div>
+                    <div class="feature-icon"><i class="fas fa-star"></i></div>
                     <p class="text-secondary mb-0">Qualify leads with adaptive flows and capture structured data like name, email etc.</p>
                 </div>
                 <div class="feature-item d-flex gap-3">
-                    <div class="feature-icon"><i class="fas fa-headset"></i></div>
+                    <div class="feature-icon"><i class="fas fa-star"></i></div>
                     <p class="text-secondary mb-0">Detect call intent and seamlessly route to live agents when needed.</p>
                 </div>
             </div>
@@ -237,18 +256,26 @@
                             <div class="segment-pill">Warm</div>
                             <div class="segment-pill">Cold</div>
                         </div>
-                    </div>
-                    <div class="ava-chat-box shadow-lg">
-                        <div class="msg-row bot mb-2">
-                            <div class="msg-bubble bg-orange x-small">Hi, I am AVA. How can I help you?</div>
-                            <div class="bot-icon-small"><i class="fas fa-robot"></i></div>
-                        </div>
-                        <div class="msg-row user mb-2">
-                            <img src="assets/images/man-with-phone.jpg" class="user-avatar-small">
-                            <div class="msg-bubble bg-white border x-small">I want to enquire about 2 BHK pricing</div>
-                        </div>
-                        <div class="chat-input-mock small-mock"><i class="fas fa-paperclip"></i></div>
-                    </div>
+                            </div>
+                            <div class="ava-chat-box shadow-lg">
+                                <div class="msg-row bot mb-2">
+                                    <div class="msg-bubble bg-orange x-small">Hi, I am AVA. How can I help you?</div>
+                                    <div class="bot-icon-small"><i class="fas fa-robot"></i></div>
+                                </div>
+                                <div class="msg-row user mb-2">
+                                    <img src="assets/images/man-with-phone.jpg" class="user-avatar-small">
+                                    <div class="msg-bubble bg-white border x-small">I want to enquire about 2 BHK pricing</div>
+                                </div>
+                                
+                                <div class="msg-row bot mb-2">
+                                    <div class="msg-bubble bg-orange x-small py-1 px-2"> <div class="typing-indicator d-flex gap-1">
+                                            <span></span><span></span><span></span>
+                                        </div>
+                                    </div>
+                                    <div class="bot-icon-small"><i class="fas fa-robot"></i></div>
+                                </div>
+                                <div class="chat-input-mock small-mock"><i class="fas fa-paperclip"></i></div>
+                            </div>
                     <div class="handoff-box shadow-lg">
                         <p class="text-white small fw-bold mb-3 text-center">Seamless handoff to right live agent</p>
                         <div class="d-flex align-items-center justify-content-center gap-3">
